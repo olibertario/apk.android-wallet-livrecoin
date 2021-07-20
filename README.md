@@ -1,4 +1,4 @@
-gonative-android
+Android Livrrecoin Wallet
 ================
 
 This is the native Android code used by https://gonative.io/
